@@ -1,4 +1,4 @@
-[![MasterHead](https://blog.hubspot.com/hs-fs/hubfs/7a8f8d634013568124e130728834d47a.gif?width=1500&name=7a8f8d634013568124e130728834d47a.gif)](https://rishavchanda.io)
+[![MasterHead]([https://blog.hubspot.com/hs-fs/hubfs/7a8f8d634013568124e130728834d47a.gif?width=1500&name=7a8f8d634013568124e130728834d47a.gif](https://miro.medium.com/v2/resize:fit:679/1*L_QoAG863l8QvqxpNyBiqw.gif))](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Hamidullo</h1>
 <h3 align="center">A passionate frontend developer from Uzbekistan</h3>
 <img loop align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1360/0*7Q3yvSIv_t0ioJ-Z.gif">
