@@ -27,11 +27,11 @@
 <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khamidullox&show_icons=true&locale=en&layout=compact" alt="khamidullox" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khamidullox&show_icons=true&locale=en&layout=compact&show_icons=true&theme=highcontrast" alt="khamidullox" /></p>
 
 <!--https://github.com/anuraghazra/github-readme-stats-->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=khamidullox&show_icons=true&theme=onedark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=khamidullox&show_icons=true&theme=highcontrast)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khamidullox&" alt="khamidullox" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khamidullox&show_icons=true&theme=highcontrast" alt="khamidullox" /></p>
 
 
