@@ -104,7 +104,7 @@ Fun fact **I am funny**
   </a>
   <a href="https://tailwindcss.com/">
     <img
-      src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7BQ-HeMAOMsED1MTad3LnYKP-PoiFWj9T7A&s"
+      src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQM_7F3i33mMNr4giX8B2mwy1yl4_QLKtuINA&s"
       alt="tailwindcss"
       width="40"
       height="40"
