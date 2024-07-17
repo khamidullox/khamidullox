@@ -118,6 +118,14 @@ Fun fact **I am funny**
       height="40"
     />
   </a>
+  <a href="https://redux.js.org/">
+    <img
+      src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png"
+      alt="tailwindcss"
+      width="40"
+      height="40"
+    />
+  </a>
 </p>
 
 <p>
