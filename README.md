@@ -110,6 +110,14 @@ Fun fact **I am funny**
       height="40"
     />
   </a>
+  <a href="https://nextjs.org/">
+    <img
+      src="https://cdn.worldvectorlogo.com/logos/next-js.svg"
+      alt="tailwindcss"
+      width="40"
+      height="40"
+    />
+  </a>
 </p>
 
 <p>
