@@ -24,9 +24,7 @@
   /></a>
 </p>
 
-- 🌱 I’m currently learning **Najot ta'lim** - 👨‍💻 All of my projects are
-available at [HTML](HTML) - 📫 How to reach me **hamidullo22022@gmail.com** - ⚡
-Fun fact **I am funny**
+- I am a passionate and dedicated frontend developer with a strong foundation in building responsive and dynamic web applications. With hands-on experience in React, TypeScript, JavaScript, and CSS, I focus on creating user-friendly interfaces and seamless user experiences. My projects demonstrate my ability to solve complex problems, implement best practices, and stay up-to-date with the latest technologies in the frontend ecosystem
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
