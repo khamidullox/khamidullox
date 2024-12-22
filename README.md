@@ -130,19 +130,19 @@
 <p>
   <img
     align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=khamidullox&show_icons=true&locale=en&layout=compact&show_icons=true&theme=highcontrast"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=khamidullox&show_icons=true&locale=en&layout=compact&show_icons=true&theme=transparent"
     alt="khamidullox"
   />
 </p>
 
 <!--https://github.com/anuraghazra/github-readme-stats-->
 ![Anurag's GitHub
-stats](https://github-readme-stats.vercel.app/api?username=khamidullox&show_icons=true&theme=highcontrast)
+stats](https://github-readme-stats.vercel.app/api?username=khamidullox&show_icons=true&theme=transparent)
 
 <p>
   <img
     align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=khamidullox&show_icons=true&theme=highcontrast"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=khamidullox&show_icons=true&theme=transparent"
     alt="khamidullox"
   />
 </p>
